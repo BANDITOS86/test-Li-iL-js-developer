@@ -114,5 +114,8 @@
     ]
 }
 ```
+### Deploy задания:
+#### [Deploy задания](https://banditos86.github.io/test-LiaiL-js-developer/ "Deploy задания")
+
 ### Результат задания:
-![Результат задания](https://github.com/BANDITOS86/my-img/blob/main/result.png?raw=true "Результат задания")
+[![My cv](https://github.com/BANDITOS86/my-img/blob/main/result.png?raw=true)](https://banditos86.github.io/test-LiaiL-js-developer/)
