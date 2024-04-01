@@ -2,7 +2,7 @@
 ### Условия:
 
 ###### Построить и вывести в виде web-страницы дерева n-ой вложенности. Референс дерева подобно дереву директорий проводника Windows (каждый следующий слой смещать вправо). 
-![Пример дерава Windows](https://github.com/BANDITOS86/my-img/blob/main/windows-tree.png?raw=true "Пример дерава Windows")
+![Пример дерава Windows](https://github.com/sashadev86/my-img/blob/main/windows-tree.png?raw=true "Пример дерава Windows")
 
 ###### Состав строк: название (стоимость)
 ###### Данные: Приходят по rest api стек данных в формате json.
@@ -115,7 +115,7 @@
 }
 ```
 ### Deploy задания:
-#### [Deploy задания](https://banditos86.github.io/test-LiaiL-js-developer/ "Deploy задания")
+#### [Deploy задания](https://sashadev86.github.io/test-LiaiL-js-developer/ "Deploy задания")
 
 ### Результат задания:
 [![My cv](https://github.com/BANDITOS86/my-img/blob/main/result.png?raw=true)](https://banditos86.github.io/test-LiaiL-js-developer/)
