@@ -118,4 +118,4 @@
 #### [Deploy задания](https://sashadev86.github.io/test-LiaiL-js-developer/ "Deploy задания")
 
 ### Результат задания:
-[![My cv](https://github.com/BANDITOS86/my-img/blob/main/result.png?raw=true)](https://banditos86.github.io/test-LiaiL-js-developer/)
+[![My cv](https://github.com/BANDITOS86/my-img/blob/main/result.png?raw=true)](https://sashadev86.github.io/test-LiaiL-js-developer/)
